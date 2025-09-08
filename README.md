@@ -1,5 +1,4 @@
-https://devarofernandaputra.github.io/devaro-website/
-<!DOCTYPE html>
+https://devarofernandaputra.github.io/devaro-website/<!DOCTYPE html>
 <html lang="id">
 <head>
   <meta charset="UTF-8">
